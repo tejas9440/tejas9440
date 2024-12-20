@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Parmar</h1>
-<span><h3 align="center">A passionate <h1>Entrepreneur</h1></h3></span> 
+<h1 align="center">A Passionate Entrepreneur</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas9440&label=Profile%20views&color=0e75b6&style=flat" alt="tejas9440" /> </p>
 
